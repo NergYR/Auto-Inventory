@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"args": [
+				"main.py"
+			],
+			"command": "python",
+			"label": "Run Python App",
+			"type": "shell"
+		}
+	]
+}
